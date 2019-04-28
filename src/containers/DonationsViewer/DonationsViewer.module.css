@@ -12,17 +12,23 @@
   margin-right: 8px;
 }
 
-.CharityInformation h2 {
+h2 {
   font-size: 20px;
 }
 
 .CharityInformation p {
+  font-weight: 500;
   font-size: 14px;
   margin: 8px 0;
 }
 
+.Loader {
+  text-align: center;
+  margin-top: 48px;
+}
+
 @media only screen and (min-width: 768px) {
-  .CharityInformation h2 {
+  h2 {
     font-size: 24px;
   }
 
