@@ -1,0 +1,37 @@
+.Donation {
+  display: flex;
+  align-items: space-evenly;
+  flex-wrap: wrap;
+  border-radius: 5px;
+  border: 1px solid #bbbbbb;
+  padding: 8px;
+  margin-bottom: 8px;
+}
+
+.Donation img {
+  width: 15%;
+  min-width: 50px;
+  max-width: 100px;
+  height: 100%;
+  margin-right: 8px;
+}
+
+.Donation p {
+  color: #8f8f8f;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.Donation section {
+  width: 77%;
+}
+
+.DonorName {
+  margin-top: 4px;
+}
+
+@media only screen and (min-width: 768px) {
+  .Donation p {
+    font-size: 16px;
+  }
+}
