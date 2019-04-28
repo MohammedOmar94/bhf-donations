@@ -1,0 +1,32 @@
+.CharityInformation {
+  display: flex;
+  align-items: center;
+  flex-flow: wrap;
+}
+
+.CharityInformation img {
+  width: 15%;
+  min-width: 50px;
+  max-width: 100px;
+  height: auto;
+  margin-right: 8px;
+}
+
+.CharityInformation h2 {
+  font-size: 20px;
+}
+
+.CharityInformation p {
+  font-size: 14px;
+  margin: 8px 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .CharityInformation h2 {
+    font-size: 24px;
+  }
+
+  .CharityInformation p {
+    font-size: 16px;
+  }
+}
