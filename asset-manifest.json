@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhf-donations/static/css/main.c5a82fa9.chunk.css",
+    "main.js": "/bhf-donations/static/js/main.002294ec.chunk.js",
+    "main.js.map": "/bhf-donations/static/js/main.002294ec.chunk.js.map",
+    "runtime~main.js": "/bhf-donations/static/js/runtime~main.abb4ba85.js",
+    "runtime~main.js.map": "/bhf-donations/static/js/runtime~main.abb4ba85.js.map",
+    "static/js/2.2541ba5e.chunk.js": "/bhf-donations/static/js/2.2541ba5e.chunk.js",
+    "static/js/2.2541ba5e.chunk.js.map": "/bhf-donations/static/js/2.2541ba5e.chunk.js.map",
+    "index.html": "/bhf-donations/index.html",
+    "precache-manifest.d26588789c8df5f9c500e4246c0396e3.js": "/bhf-donations/precache-manifest.d26588789c8df5f9c500e4246c0396e3.js",
+    "service-worker.js": "/bhf-donations/service-worker.js",
+    "static/css/main.c5a82fa9.chunk.css.map": "/bhf-donations/static/css/main.c5a82fa9.chunk.css.map"
+  }
+}
