@@ -1,10 +1,10 @@
 import React from 'react';
 
+import DonationsViewer from './containers/DonationsViewer/DonationsViewer';
+
 function App() {
   return (
-    <div>
-      Hello World
-    </div>
+    <DonationsViewer />
   );
 }
 
